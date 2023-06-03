@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Photelegy
-- 👀 I’m interested in Home-Automations, 3D Modelling, Photogrammetry
-- 🌱 I’m currently learning HomeAssistant (with NodeRed) and Fusion360
+- 👀 I’m interested in Home-Automations, 3D Modelling, 3D Printing and AI (like GPT, Alpaca, ...)
+- 🌱 I’m currently learning HomeAssistant (with NodeRed), Fusion360 and 3D-printing (with my Sovol SV04 IDEX printer)
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
