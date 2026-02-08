@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">X4 Helper</string>
+    <string name="label_x4_host">X4 Gerät-Adresse (IP oder Host)</string>
+    <string name="action_pick_photo">Foto umwandeln</string>
+    <string name="action_pick_screenshot">Screenshot optimieren</string>
+    <string name="action_send">Auf X4 senden</string>
+    <string name="label_output_format">Ausgabeformat</string>
+</resources>

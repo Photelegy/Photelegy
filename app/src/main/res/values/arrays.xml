@@ -1,0 +1,7 @@
+<resources>
+    <string-array name="output_formats">
+        <item>JPG</item>
+        <item>BMP</item>
+        <item>EPUB</item>
+    </string-array>
+</resources>
